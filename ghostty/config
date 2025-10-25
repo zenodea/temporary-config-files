@@ -1,0 +1,8 @@
+theme = Nord
+background-opacity = 0.8
+background-blur-radius = 40
+macos-titlebar-style = hidden
+window-padding-y = 6,0
+keybind = global:option+enter=new_window
+confirm-close-surface = false
+custom-shader = ./shaders/debug_cursor.glsl
